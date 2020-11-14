@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: bulmatown/post
 title: Posts
 permalink: /posts/
 ---

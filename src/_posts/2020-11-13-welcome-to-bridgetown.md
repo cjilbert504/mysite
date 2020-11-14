@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bulmatown/post
 title:  "Your First Post on Bridgetown"
 date:   2020-11-13 14:52:31 -0600
 categories: updates

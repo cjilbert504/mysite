@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: bulmatown/post
 title:  "Basic Enum Usage for Defining Roles or Statuses on Models in Rails"
-date:   2020-11-14 14:52:31 -0600
 categories: rails
 ---
 
