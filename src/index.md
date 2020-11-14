@@ -4,4 +4,6 @@
 layout: home
 ---
 
-Welcome to Bridgetown!
+<div class="has-text-centered">
+	Brought to you by Bridgetown!
+</div>
